@@ -24,29 +24,4 @@ notes.post('/', (req, res) => {
     });
 });
 
-
-notes.delete('/:id', (req, res) => {
-    fs.readFile('./db/notes.json', 'utf8', (err, data) => {
-        if (err) {
-            console.error(err);
-        } else {
-            let parsedNotes=JSON.parse(data);
-            let deletedNote=parsedNotes.filter(note => note.note_id === req.params.id)[0]
-            let updatedNotes=parsedNotes.filter(note => note !== deletedNote)
-            fs.writeFile('./db/notes.json', JSON.stringify(updatedNotes), (err) => {
-                if (err) {
-                    console.error(err);
-                } else {
-                    console.log('Success!')
-                }
-            })
-            res.json('Deleted Successfully!');
-        }
-    })
-})
-
-
-
-
-
 module.exports = notes;
