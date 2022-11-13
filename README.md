@@ -1,51 +1,70 @@
-Professional README Generator
-Description
-AS A developer I WANT a README generator SO THAT I can quickly create a professional README for a new project
+# Team-Profile-Generator-challenge-10
+  
+  ## Description
+  Your challenge is to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save   and retrieve note data from a JSON file.
+  AS A small business owner
+  I WANT to be able to write and save notes
+  SO THAT I can organize my thoughts and keep track of tasks I need to complete
+  
 
-License Badge
+  [![License Badge](https://img.shields.io/badge/license-MIT-success?style=plastic)](https://choosealicense.com/licenses/mit/)
+  
+  
+  ## Table of Contents
+  1. [Installation](#installation)
+  2. [Usage](#usage)
+  3. [Contributing](#contributing)
+  4. [Credits](#credits)
+  5. [Tests](#tests)
+  6. [License](#license)
+  7. [Questions](#questions)
+  
+  ## Installation
+  Install node v14 or greater
+  Install npm express 4.15.2
+  Install npm nodemon 2.0.20 for Dev only
+  
 
-Table of Contents
-Installation
-Usage
-Contributing
-Credits
-Tests
-License
-Questions
-Installation
-Install node v14 or greater, Install inquirer 8.2.4
+  ## Usage
+  In the terminal type ‘node server.js’
+  or nodemon server.js for Dev
+  
+  
+  
+  ## Contributing
+  To contribute please follow the link and read the contributing guide. https://github.com/github/docs/blob/dd9f70f9e7edb76e79fc43dee8fb3b8b8dfd1d20/CONTRIBUTING.md
+  
 
-Usage
-In the terminal type ‘node index.js’
+  ## Credits
+  Google
+  https://stackoverflow.com/
+  https://www.npmjs.com/
+  https://www.npmjs.com/package/express
+  https://expressjs.com/
 
-Contributing
-To contribute please follow the link and read the contributing guide. https://github.com/github/docs/blob/dd9f70f9e7edb76e79fc43dee8fb3b8b8dfd1d20/CONTRIBUTING.md
 
-Credits
-Google, https://www.npmjs.com/package/inquirer, https://stackoverflow.com/
+  ## Tests
+  N/A
+  
 
-Tests
-N/A
+  ## License
+  Copycenter (c) [wolfjfly](https://github.com/wolfjfly). All centers reserved. 
+  
+Licensed under the [MIT license](https://choosealicense.com/licenses/mit/)
+  
 
-License
-Copycenter (c) wolfjfly. All centers reserved.
-
-Licensed under the MIT license
-
-Questions
-Feel free to contact me with questions or comments @:
-
-GitHub: wolfjfly
-Email: benjamin_wlf@yahoo.com
-
-## Link to walkthrough Video
-
-https://drive.google.com/file/d/17Pk4b-vOllKNZnTZJWhX3FfQfmQYBHUG/view
-
-## Githhub repo 
-
-https://github.com/wolfjfly/README-challenge-9-bw
-
+  ## Questions
+  Feel free to contact me with questions or comments @:
+  - GitHub: [wolfjfly](https://github.com/wolfjfly)
+  - Email: [benjamin_wlf@yahoo.com](mailto:benjamin_wlf@yahoo.com)
+  
+  ## Deployed
+  Heroku
+  https://shrouded-bayou-52796.herokuapp.com/
+  github
+  https://github.com/wolfjfly/Note-Taker-challenge-11
+  
+  
 
 
 
