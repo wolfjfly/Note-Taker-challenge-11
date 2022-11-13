@@ -29,7 +29,7 @@
   In the terminal type ‘node server.js’
   or nodemon server.js for Dev
   
-  <img width="1207" alt="Demo" src="https://github.com/wolfjfly/challenge-6-bw/blob/main/assets/video/Challenge-6-working-localy_%20Oct%209%2C%202022%203_55%20PM.gif">
+  <img width="1207" alt="Demo" src="gif\Note Taker.gif">
 
   
   ## Contributing
