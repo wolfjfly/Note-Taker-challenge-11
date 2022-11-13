@@ -29,7 +29,8 @@
   In the terminal type ‘node server.js’
   or nodemon server.js for Dev
   
-  
+  <img width="1207" alt="Demo" src="https://github.com/wolfjfly/challenge-6-bw/blob/main/assets/video/Challenge-6-working-localy_%20Oct%209%2C%202022%203_55%20PM.gif">
+
   
   ## Contributing
   To contribute please follow the link and read the contributing guide. https://github.com/github/docs/blob/dd9f70f9e7edb76e79fc43dee8fb3b8b8dfd1d20/CONTRIBUTING.md
